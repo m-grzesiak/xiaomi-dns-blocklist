@@ -7,6 +7,9 @@
 # Please report any non-blocked servers or problems on GitHub: 
 # https://github.com/m-grzesiak/xiaomi-dns-blocklist/issues
 
+127.0.0.1 localhost
+::1 localhost
+
 127.0.0.1 a.stat.xiaomi.com
 127.0.0.1 abroad.apilocate.amap.com
 127.0.0.1 abtest.mistat.intl.xiaomi.com
