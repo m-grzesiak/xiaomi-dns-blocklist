@@ -7,255 +7,255 @@
 # Please report any non-blocked servers or problems on GitHub: 
 # https://github.com/m-grzesiak/xiaomi-dns-blocklist/issues
 
-a.stat.xiaomi.com
-abroad.apilocate.amap.com
-abtest.mistat.intl.xiaomi.com
-abtest.mistat.xiaomi.com
-ad.mi.com
-ad.xiaomi.com
-ad1.xiaomi.com
-adiu.amap.com
-adv.sec.intl.miui.com
-adv.sec.miui.com
-alarm.comm.miui.com
-alog.umeng.co
-alog.umeng.com
-api-analytics-de.huami.com
-api.accelerator.intl.miui.com
-api.ad.intl.xiaomi.com
-api.ad.xiaomi.com
-api.admob.xiaomi.com
-api.assistant.miui.com
-api.browser.intl.miui.com
-api.chat.xiaomi.net
-api.comm.miui.com
-api.cupid.ptqy.gitv.tv
-api.d.xiaomi.com
-api.developer.xiaomi.com
-api.device.xiaomi.net
-api.en.miui.com
-api.hybrid.intl.xiaomi.com
-api.io.mi.com
-api.map.baidu.com
-api.micloud.xiaomi.net
-api.miui.security.xiaomi.com
-api.sec.intl.miui.com
-api.sec.miui.com
-api.vip.miui.com
-api.weibo.cn
-api.weibo.com
-api.xiaomi.com
-api.xmpush.xiaomi.com
-api.zhuti.intl.xiaomi.com
-api.zhuti.xiaomi.com
-apiinit.amap.com
-apilocate.amap.com
-apilocatesrc.amap.com
-apimanifest.amap.com
-app-analytics-de.huami.com
-app.chat.xiaomi.net
-app.migc.xiaomi.com
-app.sina.cn
-appauth.account.xiaomi.com
-appstore.cdn.pandora.xiaomi.com
-appstore.pandora.xiaomi.com
-appsupport.qq.com
-assistant.pandora.xiaomi.com
-auth.be.sec.miui.com
-authbe.sec.intl.miui.com
-awsusor0-cdn.fds-ssl.api.xiaomi.com
-b.netcheck.gallery.pandora.xiaomi.com
-bbs.game.xiaomi.com
-be01.hh.xiaomi.com
-bgp.fe01.c3.xiaomi.com
-bk01.hh.xiaomi.com
-blog.xiaomi.com
-bss.pandora.xiaomi.com
-bugtags.com
-c.id.mi.com
-c.isdspeed.qq.com
-cc.sys.intl.xiaomi.com
-cc.sys.miui.com
-ccc.sys.intl.xiaomi.com
-ccc.sys.miui.com
-cdn.ad.xiaomi.com
-cdn.awsbj0.fds.api.mi-img.com
-cdn.fds-ssl.api.xiaomi.com
-cgi.connect.qq.com
-cgi.qplus.com
-cgicol.amap.com
-clock.ad.xiaomi.com
-cnc.fe01.lg.xiaomi.com
-config.kuyun.com
-connect.rom.miui.com
-contactapi.micloud.xiaomi.net
-ctc.fe01.c3.xiaomi.com
-ctc.fe02.c3.xiaomi.com
-d.xiaomi.com
-data.game.xiaomi.com
-data.mistat.intl.xiaomi.com
-data.mistat.xiaomi.com
-data.sec.miui.com
-de.pandora.xiaomi.com
-dvb.pandora.xiaomi.com
-e.ad.xiaomi.com
-f.hiphotos.baidu.com
-f1.g.mi.com
-f1.market.xiaomi.com
-f2.market.xiaomi.com
-f3.market.xiaomi.com
-f4.market.mi-img.com
-f4.market.xiaomi.com
-fcanr.tracking.miui.com
-fe02.lg.xiaomi.com
-fe05.lg.xiaomi.com
-feedback.intl.miui.com
-feedback.miui.com
-file.market.xiaomi.com
-file.xmpush.xiaomi.com
-find.api.micloud.xiaomi.net
-fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
-fr.app.chat.global.xiaomi.net
-fr.register.xmpush.global.xiaomi.com
-from.pandora.xiaomi.com
-fusion.qq.com
-gallery.cdn.pandora.xiaomi.com
-gallery.pandora.xiaomi.com
-galleryapi.micloud.xiaomi.net
-game.xiaomi.com
-geofence.sys.miui.com
-global.market.xiaomi.com
-global.search.xiaomi.net
-globalapi.ad.xiaomi.com
-grid.amap.com
-gvod.aiseejapp.atianqi.com
-hd.xiaomi.com
-hd02.lg.xiaomi.com
-heyue.xiaomi.com
-hk.mibi.xiaomi.com
-hot.browser.intl.miui.com
-huodong.xiaomi.comuserid.xiaomi.com
-huosai.xiaomi.com
-i.mi.com
-i.xiaomi.com
-igame.xiaomi.com
-image.pandora.xiaomi.com
-ime.api.xiaomi.com
-imgg.traffic-media.co
-iosdl.game.xiaomi.com
-iot.qq.com
-jellyfish.pandora.xiaomi.com
-lbs.map.qq.com
-lbs.pandora.xiaomi.com
-lg-bgp.pandora.xiaomi.com
-login.game.xiaomi.com
-login.sina.com.cn
-logonext.tv.kuyun.com
-logs.amap.com
-logupdate.avlyun.sec.miui.com
-m.bss.pandora.xiaomi.com
-m5.amap.com
-mazu.sec.miui.com
-mcc.intl.inf.miui.com
-meihua.xiaomi.com
-metok-ccc.intl.xiaomi.com
-metok.sys.miui.com
-mibi.api.xiaomi.com
-mibi.xiaomi.com
-micardapi.micloud.xiaomi.net
-milink.pandora.xiaomi.com
-mis.migc.xiaomi.com
-mishop.cdn.pandora.xiaomi.com
-mishop.pandora.xiaomi.com
-mitunes.game.xiaomi.com
-mm.amap.com
-mp.huangye.miui.com
-mpsapi.amap.com
-new.api.ad.xiaomi.com
-notice.game.xiaomi.com
-o2o.api.xiaomi.com
-oc.umeng.co
-oc.umeng.com
-openmobile.qq.com
-order.music.xiaomi.com
-oth.eve.mdt.qq.com
-oth.str.mdt.qq.com
-paopaotuan.org
-pdc.micloud.xiaomi.net
-phonecallapi.micloud.xiaomi.net
-pingma.qq.com
-pmall.migc.xiaomi.com
-ppurifier.game.xiaomi.com
-ptmi.gitv.pandora.xiaomi.com
-qiye.xiaomi.com
-qzs.qq.com
-r.browser.intl.miui.com
-r.browser.miui.com
-r.sg.sec.miui.com
-register.xmpush.xiaomi.com
-relocationapi.micloud.xiaomi.net
-resolver.gslb.mi-idc.com
-resolver.msg.global.xiaomi.net
-resolver.msg.xiaomi.net
-restapi.amap.com
-sa.api.intl.miui.com
-sandbox.xmpush.xiaomi.com
-sdkconfig.ad.intl.xiaomi.com
-sdkconfig.ad.xiaomi.com
-sdkrp.kookong.com
-search.browser.miui.com
-secode2.hd.xiaomi.com
-service.weibo.com
-sfsapi.micloud.xiaomi.net
-sgpac.account.xiaomi.com
-shenghuo.xiaomi.com
-shoes.app-xae.xiaomi.com
-solve.msg.xiaomi.net
-ssp.ad.xiaomi.com
-staging.ai.api.xiaomi.com
-starfish.pandora.xiaomi.com
-stat.pandora.xiaomi.com
-stat.xiaomi.com 
-static.game.xiaomi.com
-static.mibi.xiaomi.com
-statusapi.micloud.xiaomi.net
-storeconfig.mistat.intl.xiaomi.com
-t1.g.mi.com
-t2.market.mi-img.com
-tc.hd.xiaomi.com
-tel.fe01.hh.xiaomi.com
-test.ad.xiaomi.com
-test.e.ad.xiaomi.com
-test.new.api.ad.xiaomi.com
-thm.market.intl.xiaomi.com
-tracking.intl.miui.com
-tracking.miui.com
-trial.api.huangye.miui.com
-tv.app.migc.xiaomi.com
-update.avlyun.sec.miui.com
-update.miui.com
-upgrade.mishop.pandora.xiaomi.com
-us.api.micloud.xiaomi.net
-us.find.api.micloud.xiaomi.net
-us.galleryapi.micloud.xiaomi.net
-us.statusapi.micloud.xiaomi.net
-userid.xiaomi.com
-video.intl.xiaomi.com
-voip.game.xiaomi.com
-w.pandora.xiaomi.com
-wallpaper.cdn.pandora.xiaomi.com
-wallpaper.pandora.xiaomi.com
-wap.amap.com
-wap.game.xiaomi.com
-weather.pandora.xiaomi.com
-weatherapi.market.xiaomi.com
-widget.weibo.com
-wspeed.qq.com
-www.51modo.cc
-www.qq.com
-xiazai.xiaomi.com
-xitong.xiaomi.com
-xlmc.sec.miui.com
-xshare.api.xiaomi.com
-zeus.ad.intl.xiaomi.com
-zx.game.xiaomi.com
+127.0.0.1 a.stat.xiaomi.com
+127.0.0.1 abroad.apilocate.amap.com
+127.0.0.1 abtest.mistat.intl.xiaomi.com
+127.0.0.1 abtest.mistat.xiaomi.com
+127.0.0.1 ad.mi.com
+127.0.0.1 ad.xiaomi.com
+127.0.0.1 ad1.xiaomi.com
+127.0.0.1 adiu.amap.com
+127.0.0.1 adv.sec.intl.miui.com
+127.0.0.1 adv.sec.miui.com
+127.0.0.1 alarm.comm.miui.com
+127.0.0.1 alog.umeng.co
+127.0.0.1 alog.umeng.com
+127.0.0.1 api-analytics-de.huami.com
+127.0.0.1 api.accelerator.intl.miui.com
+127.0.0.1 api.ad.intl.xiaomi.com
+127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 api.admob.xiaomi.com
+127.0.0.1 api.assistant.miui.com
+127.0.0.1 api.browser.intl.miui.com
+127.0.0.1 api.chat.xiaomi.net
+127.0.0.1 api.comm.miui.com
+127.0.0.1 api.cupid.ptqy.gitv.tv
+127.0.0.1 api.d.xiaomi.com
+127.0.0.1 api.developer.xiaomi.com
+127.0.0.1 api.device.xiaomi.net
+127.0.0.1 api.en.miui.com
+127.0.0.1 api.hybrid.intl.xiaomi.com
+127.0.0.1 api.io.mi.com
+127.0.0.1 api.map.baidu.com
+127.0.0.1 api.micloud.xiaomi.net
+127.0.0.1 api.miui.security.xiaomi.com
+127.0.0.1 api.sec.intl.miui.com
+127.0.0.1 api.sec.miui.com
+127.0.0.1 api.vip.miui.com
+127.0.0.1 api.weibo.cn
+127.0.0.1 api.weibo.com
+127.0.0.1 api.xiaomi.com
+127.0.0.1 api.xmpush.xiaomi.com
+127.0.0.1 api.zhuti.intl.xiaomi.com
+127.0.0.1 api.zhuti.xiaomi.com
+127.0.0.1 apiinit.amap.com
+127.0.0.1 apilocate.amap.com
+127.0.0.1 apilocatesrc.amap.com
+127.0.0.1 apimanifest.amap.com
+127.0.0.1 app-analytics-de.huami.com
+127.0.0.1 app.chat.xiaomi.net
+127.0.0.1 app.migc.xiaomi.com
+127.0.0.1 app.sina.cn
+127.0.0.1 appauth.account.xiaomi.com
+127.0.0.1 appstore.cdn.pandora.xiaomi.com
+127.0.0.1 appstore.pandora.xiaomi.com
+127.0.0.1 appsupport.qq.com
+127.0.0.1 assistant.pandora.xiaomi.com
+127.0.0.1 auth.be.sec.miui.com
+127.0.0.1 authbe.sec.intl.miui.com
+127.0.0.1 awsusor0-cdn.fds-ssl.api.xiaomi.com
+127.0.0.1 b.netcheck.gallery.pandora.xiaomi.com
+127.0.0.1 bbs.game.xiaomi.com
+127.0.0.1 be01.hh.xiaomi.com
+127.0.0.1 bgp.fe01.c3.xiaomi.com
+127.0.0.1 bk01.hh.xiaomi.com
+127.0.0.1 blog.xiaomi.com
+127.0.0.1 bss.pandora.xiaomi.com
+127.0.0.1 bugtags.com
+127.0.0.1 c.id.mi.com
+127.0.0.1 c.isdspeed.qq.com
+127.0.0.1 cc.sys.intl.xiaomi.com
+127.0.0.1 cc.sys.miui.com
+127.0.0.1 ccc.sys.intl.xiaomi.com
+127.0.0.1 ccc.sys.miui.com
+127.0.0.1 cdn.ad.xiaomi.com
+127.0.0.1 cdn.awsbj0.fds.api.mi-img.com
+127.0.0.1 cdn.fds-ssl.api.xiaomi.com
+127.0.0.1 cgi.connect.qq.com
+127.0.0.1 cgi.qplus.com
+127.0.0.1 cgicol.amap.com
+127.0.0.1 clock.ad.xiaomi.com
+127.0.0.1 cnc.fe01.lg.xiaomi.com
+127.0.0.1 config.kuyun.com
+127.0.0.1 connect.rom.miui.com
+127.0.0.1 contactapi.micloud.xiaomi.net
+127.0.0.1 ctc.fe01.c3.xiaomi.com
+127.0.0.1 ctc.fe02.c3.xiaomi.com
+127.0.0.1 d.xiaomi.com
+127.0.0.1 data.game.xiaomi.com
+127.0.0.1 data.mistat.intl.xiaomi.com
+127.0.0.1 data.mistat.xiaomi.com
+127.0.0.1 data.sec.miui.com
+127.0.0.1 de.pandora.xiaomi.com
+127.0.0.1 dvb.pandora.xiaomi.com
+127.0.0.1 e.ad.xiaomi.com
+127.0.0.1 f.hiphotos.baidu.com
+127.0.0.1 f1.g.mi.com
+127.0.0.1 f1.market.xiaomi.com
+127.0.0.1 f2.market.xiaomi.com
+127.0.0.1 f3.market.xiaomi.com
+127.0.0.1 f4.market.mi-img.com
+127.0.0.1 f4.market.xiaomi.com
+127.0.0.1 fcanr.tracking.miui.com
+127.0.0.1 fe02.lg.xiaomi.com
+127.0.0.1 fe05.lg.xiaomi.com
+127.0.0.1 feedback.intl.miui.com
+127.0.0.1 feedback.miui.com
+127.0.0.1 file.market.xiaomi.com
+127.0.0.1 file.xmpush.xiaomi.com
+127.0.0.1 find.api.micloud.xiaomi.net
+127.0.0.1 fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
+127.0.0.1 fr.app.chat.global.xiaomi.net
+127.0.0.1 fr.register.xmpush.global.xiaomi.com
+127.0.0.1 from.pandora.xiaomi.com
+127.0.0.1 fusion.qq.com
+127.0.0.1 gallery.cdn.pandora.xiaomi.com
+127.0.0.1 gallery.pandora.xiaomi.com
+127.0.0.1 galleryapi.micloud.xiaomi.net
+127.0.0.1 game.xiaomi.com
+127.0.0.1 geofence.sys.miui.com
+127.0.0.1 global.market.xiaomi.com
+127.0.0.1 global.search.xiaomi.net
+127.0.0.1 globalapi.ad.xiaomi.com
+127.0.0.1 grid.amap.com
+127.0.0.1 gvod.aiseejapp.atianqi.com
+127.0.0.1 hd.xiaomi.com
+127.0.0.1 hd02.lg.xiaomi.com
+127.0.0.1 heyue.xiaomi.com
+127.0.0.1 hk.mibi.xiaomi.com
+127.0.0.1 hot.browser.intl.miui.com
+127.0.0.1 huodong.xiaomi.comuserid.xiaomi.com
+127.0.0.1 huosai.xiaomi.com
+127.0.0.1 i.mi.com
+127.0.0.1 i.xiaomi.com
+127.0.0.1 igame.xiaomi.com
+127.0.0.1 image.pandora.xiaomi.com
+127.0.0.1 ime.api.xiaomi.com
+127.0.0.1 imgg.traffic-media.co
+127.0.0.1 iosdl.game.xiaomi.com
+127.0.0.1 iot.qq.com
+127.0.0.1 jellyfish.pandora.xiaomi.com
+127.0.0.1 lbs.map.qq.com
+127.0.0.1 lbs.pandora.xiaomi.com
+127.0.0.1 lg-bgp.pandora.xiaomi.com
+127.0.0.1 login.game.xiaomi.com
+127.0.0.1 login.sina.com.cn
+127.0.0.1 logonext.tv.kuyun.com
+127.0.0.1 logs.amap.com
+127.0.0.1 logupdate.avlyun.sec.miui.com
+127.0.0.1 m.bss.pandora.xiaomi.com
+127.0.0.1 m5.amap.com
+127.0.0.1 mazu.sec.miui.com
+127.0.0.1 mcc.intl.inf.miui.com
+127.0.0.1 meihua.xiaomi.com
+127.0.0.1 metok-ccc.intl.xiaomi.com
+127.0.0.1 metok.sys.miui.com
+127.0.0.1 mibi.api.xiaomi.com
+127.0.0.1 mibi.xiaomi.com
+127.0.0.1 micardapi.micloud.xiaomi.net
+127.0.0.1 milink.pandora.xiaomi.com
+127.0.0.1 mis.migc.xiaomi.com
+127.0.0.1 mishop.cdn.pandora.xiaomi.com
+127.0.0.1 mishop.pandora.xiaomi.com
+127.0.0.1 mitunes.game.xiaomi.com
+127.0.0.1 mm.amap.com
+127.0.0.1 mp.huangye.miui.com
+127.0.0.1 mpsapi.amap.com
+127.0.0.1 new.api.ad.xiaomi.com
+127.0.0.1 notice.game.xiaomi.com
+127.0.0.1 o2o.api.xiaomi.com
+127.0.0.1 oc.umeng.co
+127.0.0.1 oc.umeng.com
+127.0.0.1 openmobile.qq.com
+127.0.0.1 order.music.xiaomi.com
+127.0.0.1 oth.eve.mdt.qq.com
+127.0.0.1 oth.str.mdt.qq.com
+127.0.0.1 paopaotuan.org
+127.0.0.1 pdc.micloud.xiaomi.net
+127.0.0.1 phonecallapi.micloud.xiaomi.net
+127.0.0.1 pingma.qq.com
+127.0.0.1 pmall.migc.xiaomi.com
+127.0.0.1 ppurifier.game.xiaomi.com
+127.0.0.1 ptmi.gitv.pandora.xiaomi.com
+127.0.0.1 qiye.xiaomi.com
+127.0.0.1 qzs.qq.com
+127.0.0.1 r.browser.intl.miui.com
+127.0.0.1 r.browser.miui.com
+127.0.0.1 r.sg.sec.miui.com
+127.0.0.1 register.xmpush.xiaomi.com
+127.0.0.1 relocationapi.micloud.xiaomi.net
+127.0.0.1 resolver.gslb.mi-idc.com
+127.0.0.1 resolver.msg.global.xiaomi.net
+127.0.0.1 resolver.msg.xiaomi.net
+127.0.0.1 restapi.amap.com
+127.0.0.1 sa.api.intl.miui.com
+127.0.0.1 sandbox.xmpush.xiaomi.com
+127.0.0.1 sdkconfig.ad.intl.xiaomi.com
+127.0.0.1 sdkconfig.ad.xiaomi.com
+127.0.0.1 sdkrp.kookong.com
+127.0.0.1 search.browser.miui.com
+127.0.0.1 secode2.hd.xiaomi.com
+127.0.0.1 service.weibo.com
+127.0.0.1 sfsapi.micloud.xiaomi.net
+127.0.0.1 sgpac.account.xiaomi.com
+127.0.0.1 shenghuo.xiaomi.com
+127.0.0.1 shoes.app-xae.xiaomi.com
+127.0.0.1 solve.msg.xiaomi.net
+127.0.0.1 ssp.ad.xiaomi.com
+127.0.0.1 staging.ai.api.xiaomi.com
+127.0.0.1 starfish.pandora.xiaomi.com
+127.0.0.1 stat.pandora.xiaomi.com
+127.0.0.1 stat.xiaomi.com 
+127.0.0.1 static.game.xiaomi.com
+127.0.0.1 static.mibi.xiaomi.com
+127.0.0.1 statusapi.micloud.xiaomi.net
+127.0.0.1 storeconfig.mistat.intl.xiaomi.com
+127.0.0.1 t1.g.mi.com
+127.0.0.1 t2.market.mi-img.com
+127.0.0.1 tc.hd.xiaomi.com
+127.0.0.1 tel.fe01.hh.xiaomi.com
+127.0.0.1 test.ad.xiaomi.com
+127.0.0.1 test.e.ad.xiaomi.com
+127.0.0.1 test.new.api.ad.xiaomi.com
+127.0.0.1 thm.market.intl.xiaomi.com
+127.0.0.1 tracking.intl.miui.com
+127.0.0.1 tracking.miui.com
+127.0.0.1 trial.api.huangye.miui.com
+127.0.0.1 tv.app.migc.xiaomi.com
+127.0.0.1 update.avlyun.sec.miui.com
+127.0.0.1 update.miui.com
+127.0.0.1 upgrade.mishop.pandora.xiaomi.com
+127.0.0.1 us.api.micloud.xiaomi.net
+127.0.0.1 us.find.api.micloud.xiaomi.net
+127.0.0.1 us.galleryapi.micloud.xiaomi.net
+127.0.0.1 us.statusapi.micloud.xiaomi.net
+127.0.0.1 userid.xiaomi.com
+127.0.0.1 video.intl.xiaomi.com
+127.0.0.1 voip.game.xiaomi.com
+127.0.0.1 w.pandora.xiaomi.com
+127.0.0.1 wallpaper.cdn.pandora.xiaomi.com
+127.0.0.1 wallpaper.pandora.xiaomi.com
+127.0.0.1 wap.amap.com
+127.0.0.1 wap.game.xiaomi.com
+127.0.0.1 weather.pandora.xiaomi.com
+127.0.0.1 weatherapi.market.xiaomi.com
+127.0.0.1 widget.weibo.com
+127.0.0.1 wspeed.qq.com
+127.0.0.1 www.51modo.cc
+127.0.0.1 www.qq.com
+127.0.0.1 xiazai.xiaomi.com
+127.0.0.1 xitong.xiaomi.com
+127.0.0.1 xlmc.sec.miui.com
+127.0.0.1 xshare.api.xiaomi.com
+127.0.0.1 zeus.ad.intl.xiaomi.com
+127.0.0.1 zx.game.xiaomi.com
