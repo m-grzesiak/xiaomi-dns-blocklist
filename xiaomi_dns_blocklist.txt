@@ -20,6 +20,7 @@ adv.sec.miui.com
 alarm.comm.miui.com
 alog.umeng.co
 alog.umeng.com
+api-analytics-de.huami.com
 api.accelerator.intl.miui.com
 api.ad.intl.xiaomi.com
 api.ad.xiaomi.com
@@ -51,6 +52,7 @@ apiinit.amap.com
 apilocate.amap.com
 apilocatesrc.amap.com
 apimanifest.amap.com
+app-analytics-de.huami.com
 app.chat.xiaomi.net
 app.migc.xiaomi.com
 app.sina.cn
@@ -87,7 +89,6 @@ cnc.fe01.lg.xiaomi.com
 config.kuyun.com
 connect.rom.miui.com
 contactapi.micloud.xiaomi.net
-controller.intl.xiaomi.com
 ctc.fe01.c3.xiaomi.com
 ctc.fe02.c3.xiaomi.com
 d.xiaomi.com
@@ -115,6 +116,7 @@ file.xmpush.xiaomi.com
 find.api.micloud.xiaomi.net
 fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
 fr.app.chat.global.xiaomi.net
+fr.register.xmpush.global.xiaomi.com
 from.pandora.xiaomi.com
 fusion.qq.com
 gallery.cdn.pandora.xiaomi.com
@@ -147,6 +149,7 @@ lbs.map.qq.com
 lbs.pandora.xiaomi.com
 lg-bgp.pandora.xiaomi.com
 login.game.xiaomi.com
+login.sina.com.cn
 logonext.tv.kuyun.com
 logs.amap.com
 logupdate.avlyun.sec.miui.com
@@ -181,7 +184,6 @@ paopaotuan.org
 pdc.micloud.xiaomi.net
 phonecallapi.micloud.xiaomi.net
 pingma.qq.com
-plus.google.com
 pmall.migc.xiaomi.com
 ppurifier.game.xiaomi.com
 ptmi.gitv.pandora.xiaomi.com
@@ -200,6 +202,8 @@ sa.api.intl.miui.com
 sandbox.xmpush.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.xiaomi.com
+sdkrp.kookong.com
+search.browser.miui.com
 secode2.hd.xiaomi.com
 service.weibo.com
 sfsapi.micloud.xiaomi.net
