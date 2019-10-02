@@ -1,3 +1,12 @@
+# Version: 2019-10-02
+# Title: Xiaomi DNS Block list
+# Last modified: 02 Oct 2019 20:38 UTC
+# Homepage: https://github.com/m-grzesiak/xiaomi-dns-block-list/
+# Licence: GNU General Public License v3 
+# 
+# Please report any non-blocked servers or problems on GitHub: 
+# https://github.com/m-grzesiak/xiaomi-dns-block-list/issues
+
 a.stat.xiaomi.com
 abroad.apilocate.amap.com
 abtest.mistat.intl.xiaomi.com
@@ -123,7 +132,7 @@ hd02.lg.xiaomi.com
 heyue.xiaomi.com
 hk.mibi.xiaomi.com
 hot.browser.intl.miui.com
-huodong.xiaomi.com
+huodong.xiaomi.comuserid.xiaomi.com
 huosai.xiaomi.com
 i.mi.com
 i.xiaomi.com
