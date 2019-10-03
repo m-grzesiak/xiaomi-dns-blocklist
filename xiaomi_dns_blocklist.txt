@@ -1,5 +1,5 @@
 # Title: Xiaomi DNS Blocklist
-# Last modified: 02 Oct 2019 21:52 UTC
+# Last modified: 03 Oct 2019 14:52 UTC
 # Homepage: https://github.com/m-grzesiak/xiaomi-dns-blocklist/
 # Licence: GNU General Public License v3 
 # 
@@ -70,7 +70,6 @@
 0.0.0.0 bk01.hh.xiaomi.com
 0.0.0.0 blog.xiaomi.com
 0.0.0.0 bss.pandora.xiaomi.com
-0.0.0.0 bugtags.com
 0.0.0.0 c.id.mi.com
 0.0.0.0 c.isdspeed.qq.com
 0.0.0.0 cc.sys.intl.xiaomi.com
@@ -133,7 +132,8 @@
 0.0.0.0 heyue.xiaomi.com
 0.0.0.0 hk.mibi.xiaomi.com
 0.0.0.0 hot.browser.intl.miui.com
-0.0.0.0 huodong.xiaomi.comuserid.xiaomi.com
+0.0.0.0 huodong.xiaomi.com
+0.0.0.0 userid.xiaomi.com
 0.0.0.0 huosai.xiaomi.com
 0.0.0.0 i.mi.com
 0.0.0.0 i.xiaomi.com
