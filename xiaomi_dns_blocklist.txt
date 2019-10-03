@@ -1,5 +1,5 @@
 # Title: Xiaomi DNS Blocklist
-# Last modified: 03 Oct 2019 15:02 UTC
+# Last modified: 03 Oct 2019 15:07 UTC
 # Homepage: https://github.com/m-grzesiak/xiaomi-dns-blocklist/
 # Licence: GNU General Public License v3 
 # 
@@ -10,9 +10,9 @@
 0.0.0.0 abroad.apilocate.amap.com
 0.0.0.0 abtest.mistat.intl.xiaomi.com
 0.0.0.0 abtest.mistat.xiaomi.com
+0.0.0.0 ad1.xiaomi.com
 0.0.0.0 ad.mi.com
 0.0.0.0 ad.xiaomi.com
-0.0.0.0 ad1.xiaomi.com
 0.0.0.0 adiu.amap.com
 0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 adv.sec.miui.com
@@ -98,13 +98,13 @@
 0.0.0.0 de.pandora.xiaomi.com
 0.0.0.0 dvb.pandora.xiaomi.com
 0.0.0.0 e.ad.xiaomi.com
-0.0.0.0 f.hiphotos.baidu.com
 0.0.0.0 f1.g.mi.com
 0.0.0.0 f1.market.xiaomi.com
 0.0.0.0 f2.market.xiaomi.com
 0.0.0.0 f3.market.xiaomi.com
 0.0.0.0 f4.market.mi-img.com
 0.0.0.0 f4.market.xiaomi.com
+0.0.0.0 f.hiphotos.baidu.com
 0.0.0.0 fcanr.tracking.miui.com
 0.0.0.0 fe02.lg.xiaomi.com
 0.0.0.0 fe05.lg.xiaomi.com
@@ -128,8 +128,8 @@
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 grid.amap.com
 0.0.0.0 gvod.aiseejapp.atianqi.com
-0.0.0.0 hd.xiaomi.com
 0.0.0.0 hd02.lg.xiaomi.com
+0.0.0.0 hd.xiaomi.com
 0.0.0.0 heyue.xiaomi.com
 0.0.0.0 hk.mibi.xiaomi.com
 0.0.0.0 hot.browser.intl.miui.com
@@ -152,8 +152,8 @@
 0.0.0.0 logonext.tv.kuyun.com
 0.0.0.0 logs.amap.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
-0.0.0.0 m.bss.pandora.xiaomi.com
 0.0.0.0 m5.amap.com
+0.0.0.0 m.bss.pandora.xiaomi.com
 0.0.0.0 mazu.sec.miui.com
 0.0.0.0 mcc.intl.inf.miui.com
 0.0.0.0 meihua.xiaomi.com
@@ -214,7 +214,7 @@
 0.0.0.0 staging.ai.api.xiaomi.com
 0.0.0.0 starfish.pandora.xiaomi.com
 0.0.0.0 stat.pandora.xiaomi.com
-0.0.0.0 stat.xiaomi.com 
+0.0.0.0 stat.xiaomi.com
 0.0.0.0 static.game.xiaomi.com
 0.0.0.0 static.mibi.xiaomi.com
 0.0.0.0 statusapi.micloud.xiaomi.net
@@ -238,7 +238,6 @@
 0.0.0.0 us.find.api.micloud.xiaomi.net
 0.0.0.0 us.galleryapi.micloud.xiaomi.net
 0.0.0.0 us.statusapi.micloud.xiaomi.net
-0.0.0.0 userid.xiaomi.com
 0.0.0.0 userid.xiaomi.com
 0.0.0.0 video.intl.xiaomi.com
 0.0.0.0 voip.game.xiaomi.com
