@@ -1,5 +1,5 @@
 # Title: Xiaomi DNS Blocklist
-# Last modified: 03 Oct 2019 15:07 UTC
+# Last modified: 13 Oct 2019 15:44 UTC
 # Homepage: https://github.com/m-grzesiak/xiaomi-dns-blocklist/
 # Licence: GNU General Public License v3 
 # 
@@ -193,7 +193,7 @@
 0.0.0.0 qzonestyle.gtimg.cn
 0.0.0.0 qzs.qq.com
 0.0.0.0 r.browser.intl.miui.com
-0.0.0.0 r.browser.miui.comimg1.sj.qq.com
+0.0.0.0 r.browser.miui.com
 0.0.0.0 r.sg.sec.miui.com
 0.0.0.0 register.xmpush.xiaomi.com
 0.0.0.0 relocationapi.micloud.xiaomi.net
@@ -219,7 +219,7 @@
 0.0.0.0 solve.msg.xiaomi.net
 0.0.0.0 ssp.ad.xiaomi.com
 0.0.0.0 staging.ai.api.xiaomi.com
-0.0.0.0 starfish.pandora.xiaomi.comimg1.sj.qq.com
+0.0.0.0 starfish.pandora.xiaomi.com
 0.0.0.0 stat.pandora.xiaomi.com
 0.0.0.0 stat.xiaomi.com
 0.0.0.0 static.game.xiaomi.com
